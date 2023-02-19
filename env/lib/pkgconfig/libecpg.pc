@@ -1,0 +1,9 @@
+Name: libecpg
+Description: PostgreSQL libecpg library
+Url: http://www.postgresql.org/
+Version: 12.9
+Requires: 
+Requires.private: libpq libpgtypes
+Cflags: -I/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/include
+Libs: -L/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/lib -lecpg
+Libs.private: -L/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/lib -lpgcommon -lpgport -lm

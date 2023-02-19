@@ -1,0 +1,7 @@
+
+Name: Qt5WebKit
+Description: Qt WebKit module
+Version: 5.212.0
+Libs: -L/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/lib -lQt5WebKit
+Cflags: -I/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/include/qt/QtWebKit 
+Requires: Qt5Core Qt5Gui Qt5Network Qt5Multimedia

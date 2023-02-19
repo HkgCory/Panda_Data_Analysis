@@ -1,0 +1,9 @@
+Name: libpq
+Description: PostgreSQL libpq library
+Url: http://www.postgresql.org/
+Version: 12.9
+Requires: 
+Requires.private: 
+Cflags: -I/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/include
+Libs: -L/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/lib -lpq
+Libs.private: -L/Users/kinhanglo/Desktop/machine-learning/Panda_Data_Analysis/env/lib -lpgcommon -lpgport -lssl -lcrypto -lgssapi_krb5 -lm

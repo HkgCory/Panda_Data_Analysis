@@ -1,0 +1,37 @@
+{
+  "build": "py310hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.6.2,<3.6.3.0a0",
+    "python >=3.10,<3.11.0a0",
+    "tornado >=5"
+  ],
+  "extracted_package_dir": "/Users/kinhanglo/miniconda3/pkgs/matplotlib-3.6.2-py310hca03da5_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.6.2-py310hca03da5_0.conda",
+  "legacy_bz2_md5": "e4fe11a167c80f873a30492862dc79b3",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/kinhanglo/miniconda3/pkgs/matplotlib-3.6.2-py310hca03da5_0",
+    "type": 1
+  },
+  "md5": "6b7e180bb7e215c98e602d6ce2f0328d",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/kinhanglo/miniconda3/pkgs/matplotlib-3.6.2-py310hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "3c7c527cea6749f71ba8028e907bc439a696b986c611375d6cf95fe34a65e93b",
+  "size": 8919,
+  "subdir": "osx-arm64",
+  "timestamp": 1670466353496,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/matplotlib-3.6.2-py310hca03da5_0.conda",
+  "version": "3.6.2"
+}
